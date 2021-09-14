@@ -1,0 +1,25 @@
+<project name="ANaive" default = "copy" >
+    <target name="init">
+        <echo message="Building ANaive Project" />
+    </target>
+    <target name="create" depends ="init">
+        <delete dir="D:\Installers\apache-tomee-microprofile-8.0.8\webapps\ANative\" />
+        <mkdir dir="D:\Installers\apache-tomee-microprofile-8.0.8\webapps\ANative\" />
+        <mkdir dir="D:\Installers\apache-tomee-microprofile-8.0.8\webapps\ANative\html" />
+        <mkdir dir="D:\Installers\apache-tomee-microprofile-8.0.8\webapps\ANative\images" />
+        <mkdir dir="D:\Installers\apache-tomee-microprofile-8.0.8\webapps\ANative\WEB-INF" />
+    </target>
+
+    <target name="copy" depends ="create">
+        <copy file="D:\Study\4_course\Java\lab01\web\WEB-INF\web.xml"
+              todir="D:\Installers\apache-tomee-microprofile-8.0.8\webapps\ANative\WEB-INF\" />
+        <copy file="D:\Study\4_course\Java\lab01\web\html/index.html"
+              todir="D:\Installers\apache-tomee-microprofile-8.0.8\webapps\ANative\" />
+        <copy file="D:\Study\4_course\Java\lab01\web\html\education.html"
+              todir="D:\Installers\apache-tomee-microprofile-8.0.8\webapps\ANative\html\" />
+        <copy file="D:\Study\4_course\Java\lab01\web\html\address.html"
+              todir="D:\Installers\apache-tomee-microprofile-8.0.8\webapps\ANative\html\" />
+        <copy file="D:\Study\4_course\Java\lab01\web\images\hd-wallpapers-4k.jpg"
+              todir="D:\Installers\apache-tomee-microprofile-8.0.8\webapps\ANative\images\" />
+    </target>
+</project>
