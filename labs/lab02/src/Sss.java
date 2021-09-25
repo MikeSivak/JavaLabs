@@ -20,19 +20,22 @@ public class Sss extends HttpServlet {
         System.out.println("Sss: destroy");
     }
 
-    protected void service(HttpServletRequest rq, HttpServletResponse rs)throws  ServletException, IOException{
-        System.out.println("Sss: service: " + rq.getMethod());
+//    @Override
+//    protected void service(HttpServletRequest rq, HttpServletResponse rs)throws  ServletException, IOException{
+//        System.out.println("Sss: service: " + rq.getMethod());
+//
+//        PrintWriter pw = rs.getWriter();
+//        pw.println("<html><body>"
+//                + "<h2>Sss: service with method - " + rq.getMethod() + "</h2>"
+//                + "<h3>ServerName: " + rq.getServerName() + "</h3>"
+//                + "<h3>LocalAddr: " + rq.getLocalAddr() + "</h3>"
+//                + "<h3>Query: " + rq.getQueryString() + "</h3>"
+//                + "<br>Sss: FirstName = " + rq.getParameter("firstname")
+//                + "<br>Sss: LastName = " + rq.getParameter("lastname")
+//                + "</body></html>");
+//    }
 
-        PrintWriter pw = rs.getWriter();
-        pw.println("<html><body>"
-                + "<h2>Sss: service with method - " + rq.getMethod() + "</h2>"
-                + "<h3>ServerName: " + rq.getServerName() + "</h3>"
-                + "<h3>LocalAddr: " + rq.getLocalAddr() + "</h3>"
-                + "<h3>Query: " + rq.getQueryString() + "</h3>"
-                + "<br>Sss: FirstName = " + rq.getParameter("firstname")
-                + "<br>Sss: LastName = " + rq.getParameter("lastname")
-                + "</body></html>");
-    }
+
 
     protected void doPost(HttpServletRequest rq, HttpServletResponse rs) throws ServletException, IOException {
         rs.setContentType("text/html");
