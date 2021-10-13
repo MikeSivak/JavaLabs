@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20e7aa37-b400-4c04-a0dd-8a6cbda3ff8c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/lab_04/.idea/artifacts/lab_04.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab_04/.idea/artifacts/lab_04.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab_04/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/.idea/libraries/Java_EE_6_Java_EE_6__2_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/.idea/libraries/org_jsoup_jsoup_1_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab_04/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab_04/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/lab_04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab_04/lab_04.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/out/artifacts/lab_04/WEB-INF/classes/Afternoon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/out/artifacts/lab_04/WEB-INF/classes/Jjj.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/out/artifacts/lab_04/WEB-INF/lib/javax.annotation.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/out/artifacts/lab_04/WEB-INF/lib/javax.ejb.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/out/artifacts/lab_04/WEB-INF/lib/javax.jms.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/out/artifacts/lab_04/WEB-INF/lib/javax.persistence.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/out/artifacts/lab_04/WEB-INF/lib/javax.resource.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/out/artifacts/lab_04/WEB-INF/lib/javax.servlet.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/out/artifacts/lab_04/WEB-INF/lib/javax.servlet.jsp.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/out/artifacts/lab_04/WEB-INF/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/out/artifacts/lab_04/WEB-INF/lib/javax.transaction.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/out/artifacts/lab_04/WEB-INF/lib/jsoup-1.11.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/out/artifacts/lab_04/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/out/artifacts/lab_04/css/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/out/artifacts/lab_04/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/out/artifacts/lab_04/pages/afternoon.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/out/artifacts/lab_04/pages/evening.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/out/artifacts/lab_04/pages/morning.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/out/artifacts/lab_04/pages/night.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/out/artifacts/lab_04/scripts/jquery-3.2.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/out/production/lab_04/Afternoon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/out/production/lab_04/Jjj.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/src/Afternoon.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab_04/src/Afternoon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/src/Jjj.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab_04/src/Jjj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_04/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/lab_04/web/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1zQ5UgDK52eFpQWghyHfL47nA09" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20e7aa37-b400-4c04-a0dd-8a6cbda3ff8c" name="Changes" comment="" />
+      <created>1634067491890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634067491890</updated>
+      <workItem from="1634067495178" duration="7000" />
+      <workItem from="1634084820473" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

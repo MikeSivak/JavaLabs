@@ -1,7 +1,13 @@
 <%@ page import="java.util.Calendar" %>
 <%@ page import="java.util.Date" %>
 <%@ page import="java.util.Timer" %>
-<%@ page import="java.text.SimpleDateFormat" %>
+<%@ page import="java.text.SimpleDateFormat" %><%--
+  Created by IntelliJ IDEA.
+  User: Sergei
+  Date: 13.10.2017
+  Time: 18:56
+  To change this template use File | Settings | File Templates.
+--%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
@@ -93,7 +99,6 @@
           $("#tbl").html("<%= htmlValue %>");
       })();
     </script>
-
     <a href="/lab_04/Afternoon">invoke Afternoon servlet</a>
     <a href="jjj">GET</a>
     <form action="/lab_04/jjj" method="post">
